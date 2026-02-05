@@ -1,0 +1,9 @@
+Merge Conflict Resolution:
+A merge conflict occurred when both the Working and Test branches modified the README.md file.
+The conflict was resolved by manually editing the README.md file to retain both the git version
+number and the student ID, then committing and pushing the resolved file to the Working branch.
+
+HTML File Changes:
+1. Created and committed index.html with initial homepage content.
+2. Created and committed about.html with descriptive project information.
+3. Created and committed contact.html with contact details.
